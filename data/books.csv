@@ -1,0 +1,6 @@
+book_id;title;publication_year;author_id;genre_id
+1;A Tale of Two Cities;1859;11;2
+2;The Little Prince;1943;12;12
+3;The Alchemist;1988;13;12
+4;Harry Potter and the Philosopher's Stone;1997;8;12
+5;And Then There Were None;1939;2;11
